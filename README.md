@@ -1,5 +1,5 @@
-# alfred-lb-url
-Alfred Letterboxd Url Workflow
+# Alfred Letterboxd Url Workflow
+
 This workflow makes a url along letterboxd’s naming convention for movies from any copied text. This does not cause the page to appear, just formats the last thing you copied and outputs a url. Letterboxd movie pages all follow the same pattern, so as long as you copy the name of the movie first, this should work.
 
 1. Write out the name of a movie
