@@ -8,6 +8,8 @@ This workflow makes a url along letterboxd’s naming convention for movies from
 4. Should be good to go. 
 
 I set it to look for the url and pop up a dialog if it returns a 404, so if the dialog shows up either say “okay” or click the search function. This should open a quick search on letterboxd with your default browser for the best version of whatever you copied most recently.
+
+There is also included a direct link search with the same conventions outlined above, but behaving more like a regular alfred search. 
 Alright, good luck.
 
 —Jacob
